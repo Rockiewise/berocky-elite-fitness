@@ -1,11 +1,28 @@
-<div align="center">
+# BeRocky - Elite Gym & Fitness 🏋️
 
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+**Repository Name:** `berocky-elite-fitness`
 
-  <h1>Built with AI Studio</h2>
+## Project Overview
+BeRocky is a premium fitness platform specifically tailored for the Ibadan market and global online clients. It bridges the gap between traditional gym management and modern digital fitness experiences.
 
-  <p>The fastest path from prompt to production with Gemini.</p>
+## Core Features
+- **Secure Access Control**: Robust authentication system with strict admin validation (locked to `sarolanrewaju691@gmail.com`).
+- **Business Commander Dashboard**: Private analytics suite for tracking revenue, enrollments, and geographic growth.
+- **Member Evolution Portal**: Personalized dashboard for tracking workout history, PRs (Personal Bests), and class bookings.
+- **Rocky AI Coach**: 24/7 fitness and nutrition assistant powered by Google Gemini 3, localized for the Nigerian context.
+- **E-Commerce Hub**: High-conversion shop for elite supplements and gym gear.
+- **Class Management**: Hybrid scheduling for offline sessions in Ibadan and global online streaming.
 
-  <a href="https://aistudio.google.com/apps">Start building</a>
+## Tech Stack
+- **Frontend**: React + TypeScript + Tailwind CSS
+- **Intelligence**: Google Gemini API (@google/genai)
+- **Visuals**: Recharts (Analytics), Lucide-style iconography
+- **Routing**: React Router (HashRouter)
 
-</div>
+## Security
+- Strict email-based admin gating.
+- Protected route architecture.
+- Encrypted session persistence.
+
+---
+*BeRocky: Unleash Your Limits. Ibadan's #1 Fitness Hub.*

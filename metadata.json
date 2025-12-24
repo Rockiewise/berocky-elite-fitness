@@ -1,0 +1,9 @@
+{
+  "name": "BeRocky - Elite Gym & Fitness",
+  "description": "A high-performance fitness ecosystem for BeRocky Gym, featuring secure member portals, AI-powered personal training, and specialized business commander analytics.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
